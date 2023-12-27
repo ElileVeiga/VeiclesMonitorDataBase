@@ -126,7 +126,7 @@ module.exports = {
           port: 587,
           auth: {
             user: 'ti1@vimsa.com.br',
-            pass: '24Vims!))',
+            pass: '',
           },
         });
     
